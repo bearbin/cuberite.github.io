@@ -322,6 +322,9 @@ button:focus {
 	display: table-row;
 	line-height: 3.750em;
 }
+#navigation a {
+	text-decoration: none;
+}
 #logo a {
 	float: left;
 	font-size: 1.500em;
